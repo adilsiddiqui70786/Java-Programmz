@@ -14,6 +14,6 @@ public class marks
       if(average>=33)
       System.out.println("Student is pass");
       else
-      System.out.println("Student is fail");
+      System.out.println("Student is fail");`
     }
 }
