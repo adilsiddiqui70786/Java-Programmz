@@ -14,5 +14,4 @@ public class adult
 
     }
                 //CHECKING THE ADULT OR NOT...
-    
 }
