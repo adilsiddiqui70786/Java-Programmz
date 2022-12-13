@@ -12,4 +12,6 @@ public class scholarship {
         else 
         System.out.println("Person is not eligible for scholarshop..");
     }
+    
+    
 }
