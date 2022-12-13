@@ -8,6 +8,5 @@ public class adult2 {
         String  str;
         str = (p>=18)?"The person is Adult":"The person is Minor";
         System.out.println(str);
-
     }
 }
