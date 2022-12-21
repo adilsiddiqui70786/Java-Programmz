@@ -18,5 +18,5 @@ Scanner pma = new Scanner(System.in);
         else 
         System.out.println("fail");
     }
-        
+       
 }
