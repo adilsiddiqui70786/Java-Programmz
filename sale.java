@@ -25,7 +25,7 @@ public class sale{
         else 
         {
             commision = (sales*10)/100;
-            System.out.println("the commision is :" +commision);
+           System.out.println("the commision is :" +commision);
        }
       }  
 }
