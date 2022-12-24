@@ -11,4 +11,4 @@ public class sqrcbe
         System.out.println("square:" +m);
         System.out.println("cube:"+a);
     }
-}        //SQUARE OF M AND CUBE OF A
+}       //SQUARE OF M AND CUBE OF A
