@@ -1,7 +1,9 @@
 //CONDITION TO ELIGIBLE FOR SCHOLARSHIP
 import java.util.Scanner;
-public class scholarship {
-    public static void main(String[] args) {
+public class scholarship
+{
+    public static void main(String[] args) 
+    {
         Scanner pma = new Scanner(System.in);
         System.out.println("Enter Annual family income and age of a person");
         int income = pma.nextInt();
@@ -12,6 +14,5 @@ public class scholarship {
         else 
         System.out.println("Person is not eligible for scholarshop..");
     }
-    
-    
+   
 }
