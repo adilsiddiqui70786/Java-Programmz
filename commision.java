@@ -1,6 +1,7 @@
 // comissions
 import java.util.Scanner;
-public class commision {
+public class commision
+{
     public static void main(String[] args) 
     {
         Scanner  pma = new Scanner(System.in);
