@@ -1,5 +1,5 @@
+//for adding two integer
 import java.util.Scanner;
-
 public class qt12 {
     public static void main(String[] args) {
         int p,m,a;
@@ -11,4 +11,4 @@ public class qt12 {
         System.out.println("sum=" +p +"+"+ +m +"="+ +a);
         System.out.println(a);
     }
-}        // for adding two integer
+}      
