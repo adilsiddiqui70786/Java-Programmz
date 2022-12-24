@@ -1,3 +1,4 @@
+//FOR AVERAGE....
 import java.util.Scanner;
 public class avgsum
 {
@@ -12,4 +13,4 @@ public class avgsum
         System.out.println("sum" +a);
         System.out.println("average" +avgsum);
     }
-}        //FOR AVERAGE....
+}        
