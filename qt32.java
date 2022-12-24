@@ -1,8 +1,10 @@
 // GRADE OF STUDENT FIRST,SECOND THIRD DIVISION OR FAIL
 import java.util.Scanner;
-public class qt32{
-     public static void main(String[] args) {
-Scanner pma = new Scanner(System.in);
+public class qt32
+{
+     public static void main(String[] args) 
+     {
+        Scanner pma = new Scanner(System.in);
         System.out.println("Enter marks in three subject:");
         int a = pma.nextInt();
         int b= pma.nextInt();
