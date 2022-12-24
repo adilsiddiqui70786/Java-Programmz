@@ -1,3 +1,4 @@
+//first integer can be divided by the second integer...
 import java.util.Scanner;
 public class qt18
 {
