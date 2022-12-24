@@ -1,7 +1,9 @@
 // find out the negative positive and zero integers...
 import java.util.Scanner;
-public class posneg {
-    public static void main(String[] args) {
+public class posneg
+{
+    public static void main(String[] args) 
+    {
         Scanner pma = new Scanner(System.in);
         System.out.println("Enter any integer");
         int integer = pma.nextInt();
