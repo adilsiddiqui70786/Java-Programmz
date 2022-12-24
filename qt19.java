@@ -1,5 +1,5 @@
+//SIMPLE INTEREST OF PRINCIPAL AMOUNT
 import java.util.Scanner;
-
 public class qt19
 {
     public static void main(String[] args) {
@@ -10,6 +10,5 @@ public class qt19
         float t = 10;
         float si = (p*r*t)/100;
         System.out.println("simple interest = "  +si);
-    }
-       //SIMPLE INTEREST OF PRINCIPAL AMOUNT
+    }   
 }
