@@ -1,5 +1,5 @@
+ //CHECKING THE ADULT OR NOT...
 import java.util.Scanner;
-
 public class adult 
 {
     public static void main(String[] args) 
@@ -13,5 +13,4 @@ public class adult
         System.out.println("You are minor...");    
 
     }
-                //CHECKING THE ADULT OR NOT...
 }
