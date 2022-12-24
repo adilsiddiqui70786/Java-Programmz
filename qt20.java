@@ -1,5 +1,5 @@
+//USE OF ADD , SUB , MULTIPLY , DIVIDE AND MOD...
 import java.util.Scanner;
-
 public class qt20 
 {
     public static void main(String[] args) 
@@ -16,4 +16,4 @@ public class qt20
         System.out.println(+a+ " / " +b+ " = " +(a/b));
         System.out.println(+a+ " % " +b+ " = " +(a%b));
     }
-}       //USE OF ADD , SUB , MULTIPLY , DIVIDE AND MOD...
+}   
