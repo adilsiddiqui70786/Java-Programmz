@@ -1,7 +1,8 @@
 //CHECK THE NUMBER IS EVEN OR NOT..
 import java.util.Scanner;
 public class oddeven 
-{  public static void main(String[] args) {
+{  public static void main(String[] args) 
+    {
         System.out.println("Enter the integer numberz :");
         Scanner pma = new Scanner(System.in);
         int num = pma.nextInt();
