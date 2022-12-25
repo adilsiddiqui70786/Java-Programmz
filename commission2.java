@@ -1,7 +1,9 @@
+//
 import java.util.Scanner;
 public class commission2
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner pma  = new Scanner(System.in);
         System.out.println("enter the age sale made by any person");
         int sale = pma.nextInt();
