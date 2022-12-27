@@ -1,8 +1,9 @@
-// find male female using m and f....
+// find male female using m and f.....
 import java.util.Scanner;
 public class gender
 {
-        public static void main(String[] args) {
+        public static void main(String[] args)
+     {
         Scanner pma = new Scanner(System.in);
         System.out.println("Enter the gender code :");
         char code = pma.nextLine().charAt(0);
