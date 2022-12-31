@@ -7,5 +7,5 @@ public class intfloatchar {
         char c = 'A';
         System.out.println(c);
     }
-        //  STORING INT , FLOAT , CHAR TOGETHER IN SEPERATE LINE 
+        //  STORING INT , FLOAT , CHAR TOGETHER IN SEPERATE LINE ..
 }        
