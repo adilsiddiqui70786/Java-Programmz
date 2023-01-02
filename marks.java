@@ -4,7 +4,7 @@ public class marks
 {
     public static void main(String[] args) 
     {
-     System.out.println("Enter the mark of three subject...");
+     System.out.println("Enter the mark of three subject....");
      Scanner pma = new Scanner(System.in);
       int sub1 = pma.nextInt();
       int sub2 = pma.nextInt();
