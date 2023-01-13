@@ -10,4 +10,5 @@ public class average{
         float average = (p+m)/2f;
         System.out.println("average" +average);
     }
+    
 }        
