@@ -8,4 +8,6 @@ public class acsii{
         char a = pma.next().charAt(0);
         System.out.println("Acsii value = " +(int)a);
     }
+    
+    
 }
