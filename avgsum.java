@@ -13,4 +13,5 @@ public class avgsum
         System.out.println("sum" +a);
         System.out.println("average" +avgsum);
     }
+    
 }        
