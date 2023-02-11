@@ -1,4 +1,4 @@
-// PRINT ODD & EVEN USING THE CONDITIONAL OPERATOR
+// PRINT ODD & EVEN USING THE CONDITIONAL OPERATOR...
 import java.util.Scanner;
 public class oddeven2 {
     public static void main(String[] args) {
