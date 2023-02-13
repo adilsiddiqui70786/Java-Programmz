@@ -13,5 +13,5 @@ public class swap {
     System.out.println("m=" +m);    
     m = a;   
     }
-      // SWAP P AND M WITH THIRD VARIABLE A...
+      // SWAP P AND M WITH THIRD VARIABLE A....
 }
