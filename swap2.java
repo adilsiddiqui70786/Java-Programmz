@@ -15,6 +15,6 @@ public class swap2 {
         System.out.println("a="  +a);
         System.out.println("b="  +b);
         
-    }    //SWAPPING TWO INTEGER WITHOUT THIRD VARIABLE
+    }    //SWAPPING TWO INTEGER WITHOUT THIRD VARIABLE..
     
 }
