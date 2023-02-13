@@ -4,7 +4,7 @@ public class strvalue {
 
     {
         Scanner input = new Scanner(System.in);
-        int c=65;
+        int c=90;
         System.out.println(c);
     }
     
