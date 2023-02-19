@@ -1,4 +1,4 @@
-//Write a program which enter any character and print its ACSII value..
+//Write a program which enter any character and print its ACSII value
 import java.util.*;
 public class acsii{
     public static void main(String[] args)
