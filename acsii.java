@@ -7,5 +7,6 @@ public class acsii{
         Scanner pma =new Scanner(System.in);
         char a = pma.next().charAt(0);
         System.out.println("Acsii value = " +(int)a);
-    }
+    } 
+    
 }
