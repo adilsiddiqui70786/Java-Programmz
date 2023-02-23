@@ -12,6 +12,6 @@ public class adult
         else
         System.out.println("You are minor...");    
   
-    }
+    } 
 }
  
