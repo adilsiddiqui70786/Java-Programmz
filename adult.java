@@ -11,6 +11,6 @@ public class adult
         System.out.println("You are an adult..");
         else
         System.out.println("You are minor...");    
- 
+  
     }
 }
