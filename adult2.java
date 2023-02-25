@@ -1,6 +1,7 @@
 //FIND OUT ADULT OR MINOR WITH CONDITIONAL OPERATOR...
 import java.util.Scanner;
-public class adult2 {
+public class adult2
+{
     public static void main(String[] args) {
         Scanner pma = new Scanner(System.in);
         System.out.println("Enter the age of the person");
