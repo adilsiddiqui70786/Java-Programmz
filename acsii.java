@@ -5,7 +5,7 @@ public class acsii{
     {
         System.out.println("Enter any character :");
         Scanner pma =new Scanner(System.in);
-        char a = pma.next().charAt(0);
+        char a = pma.next().charAt(0); 
         System.out.println("Acsii value = " +(int)a);
     } 
      
