@@ -1,4 +1,4 @@
-//FOR AVERAGE....
+//FOR AVERAGE
 import java.util.Scanner;
 public class avgsum
 {
