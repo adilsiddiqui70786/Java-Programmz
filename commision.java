@@ -1,4 +1,4 @@
-// comissions
+// comissions..
 import java.util.Scanner;
 public class commision
 {
