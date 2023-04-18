@@ -1,6 +1,5 @@
 import java.util.Scanner;
-public class qt11 
-{
+public class qt11 {
     public static void main(String[] args)
     {
         Scanner pma = new Scanner(System.in);
