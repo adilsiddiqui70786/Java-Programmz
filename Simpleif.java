@@ -9,7 +9,7 @@ public static void main (String args[])
   rollnum = pma.nextInt();
   if(rollnum == 21)
 {
-  Sytem.out.println("My name is MOhd Adil"); 
+  Sytem.out.println("My name is MOhd Adil");  
   Sytem.out.println("My age = 18");
   Sytem.out.println("Contact - @adilsiddiqui70786");
   Sytem.out.println("Pursuing BCA degree from Allahabad University");
