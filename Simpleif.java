@@ -6,7 +6,7 @@ public static void main (String args[])
   int rollnum;
   System.out.println("Eneter the rollnum = ");
   Scanner pma = new Scanner (System.in);
-  rollnum = pma.nextInt();
+  rollnum = pma.nextInt(); 
   if(rollnum == 21)
 {
   Sytem.out.println("My name is MOhd Adil");  
