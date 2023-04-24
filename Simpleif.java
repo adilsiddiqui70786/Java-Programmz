@@ -1,7 +1,7 @@
 //Simple if 
 import java.util.;
 class conditionif{
-public static void main (String args[])
+public static void main (String args[]) 
 {
   int rollnum;
   System.out.println("Eneter the rollnum = ");
