@@ -6,6 +6,6 @@ class abc
     {
          System.out.println("Swagat kro hamara tmhare hai hum..");  
     }        
-}    
+}     
  
   
