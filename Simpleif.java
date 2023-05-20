@@ -1,4 +1,4 @@
-//Simple if..
+//Simple if
 
 
 import java.util.;
