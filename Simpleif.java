@@ -1,5 +1,4 @@
-//Simple if
-
+//Simple if java program
 
 import java.util.;
 class conditionif{
