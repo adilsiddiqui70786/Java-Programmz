@@ -1,4 +1,6 @@
 //commision
+
+.
 import java.util.Scanner;
 public class commission2
 {
