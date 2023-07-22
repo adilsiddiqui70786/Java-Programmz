@@ -1,4 +1,4 @@
-//PROGRAM FOR AVERAGE....
+//PROGRAM FOR AVERAGE..
 
 import java.util.Scanner;
 public class average{
