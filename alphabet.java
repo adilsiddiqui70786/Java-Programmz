@@ -1,4 +1,6 @@
-//It is Capital alphabet,small alphabet,digit or any other special......
+//It is Capital alphabet,small alphabet,digit or any other special.....
+
+
 
 import java.util.Scanner;
 public class alphabet {
