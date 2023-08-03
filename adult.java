@@ -1,5 +1,7 @@
  //CHECKING THE ADULT OR NOT 
 
+
+
 import java.util.Scanner;
 public class adult 
 {
