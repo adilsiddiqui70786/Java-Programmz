@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.* 
 
 public class LinkedList_technolamror{
    public static void main(String args[]){
