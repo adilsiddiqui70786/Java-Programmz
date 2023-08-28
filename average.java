@@ -1,6 +1,5 @@
 //PROGRAM FOR AVERAGE
 
-
 import java.util.Scanner;
 public class average{
     public static void main(String[] args) 
