@@ -1,6 +1,5 @@
 //Simple if java program 
 
-
 import java.util.;
 class conditionif{
 public static void main (String args[]) 
