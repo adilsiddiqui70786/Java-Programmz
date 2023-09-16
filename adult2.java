@@ -1,5 +1,5 @@
 //FIND OUT ADULT OR MINOR WITH CONDITIONAL OPERATOR
-
+.
 
 import java.util.Scanner;
 public class adult2
