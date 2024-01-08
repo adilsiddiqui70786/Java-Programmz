@@ -1,3 +1,4 @@
+
 class Multi extends Thread{
 
 public void run(){
